@@ -16,6 +16,11 @@ Project Acceptance criteria
 6. The code quality of the React app must be of a high standard, with proper documentation of code and functionality.
 
 7. There must be no cheating or copy-pasting of code from other sources, and all code must be original and developed specifically for this project.
+# Snap Shot
+1- ![image](https://github.com/Vikasyadav25/buyBusyShoppingApp/assets/91658308/cb5a1c22-8b1b-47c1-9bc4-6afe9289f8bb)
+2- ![image](https://github.com/Vikasyadav25/buyBusyShoppingApp/assets/91658308/6458a450-49ac-4937-9a6e-82d3bb8874e2)
+3- ![image](https://github.com/Vikasyadav25/buyBusyShoppingApp/assets/91658308/cb5c90f6-5be9-4885-a90c-1dade2594755)
+4- ![image](https://github.com/Vikasyadav25/buyBusyShoppingApp/assets/91658308/ed46e63c-296d-4203-a2f5-7201e8b6618f)
 
 ### `npm start`
 
