@@ -1,10 +1,21 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Developed an E-Commerce that enables individuals to browse available items, add of remove them from their shopping cart. and complete the purchasing process.
 ## Available Scripts
+Project Acceptance criteria
 
-In the project directory, you can run:
+1. The React app must be integrated with Firebase for Create, Read, Update, and Delete (CRUD) functionality of products in the cart.
+
+2. The app must have the functionality to register new users and log in the existing users using Firebase Authentication.
+
+3. The app must implement routing using react-router-dorm for different pages.
+
+4. The app must implement the useContext() hook at least once for managing user authentication or products.
+
+5. The app must implement proper state management and use React Hooks for handling user interactions and data updates.
+
+6. The code quality of the React app must be of a high standard, with proper documentation of code and functionality.
+
+7. There must be no cheating or copy-pasting of code from other sources, and all code must be original and developed specifically for this project.
 
 ### `npm start`
 
